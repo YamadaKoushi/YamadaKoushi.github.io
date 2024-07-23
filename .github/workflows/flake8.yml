@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - 'test.py'
+      - '.github/workflows/flake8.yml'
 
 
 jobs:
