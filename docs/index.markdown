@@ -10,6 +10,8 @@ title: "ソフトウェア工学　2024"
 
 git/github演習
 
+[git memo][/docs/git-memo]
+
 ## gitの主要なコマンド一覧
 
 - **git status**: Gitによって現在されている変更を追跡が可能。
