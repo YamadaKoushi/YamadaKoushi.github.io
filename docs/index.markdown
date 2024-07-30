@@ -5,10 +5,13 @@
 layout: home
 title: "ソフトウェア工学　2024"
 ---
+https://github.com/YamadaKoushi
 
 # ソフトウェア工学 2024
 
 git/github演習
+
+[git memo](/docs/git-memo)
 
 ## gitの主要なコマンド一覧
 
